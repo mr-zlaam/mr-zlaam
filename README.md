@@ -4,7 +4,7 @@
       width="300"
                                                                    style="border-radius: 50%;"
       align="right"
-      src="https://live.staticflickr.com/65535/53281434521_eeef635514_z.jpg"
+      src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTViZWNqdncyM2ZjM2M5NGJoejR4bDF5djJ0N3oxdTZzZHlmYno2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif"
       alt="coding"
     />
 
