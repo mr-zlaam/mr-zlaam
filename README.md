@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/mr_zlaam" target="_blank"><img src="https://img.shields.io/twitter/follow/mr_zlaam?logo=twitter&style=for-the-badge" alt="mr_zlaam" /></a> </p>
 
-- 🔭 I’m currently working on [Food delivery Web App using Next JS](https://github.com/mr-zlaam/FoodDelivery)
+- 🔭 I’m currently polishing my skills in web development
 
 - 🌱 I’m currently learning **Go Lang**
 
