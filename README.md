@@ -18,11 +18,11 @@
 
 - 👯 I’m looking to collaborate on **any SAAS Project**
 
-- 👨‍💻 All of my projects are available at [https://itszlaam.netlify.app](https://itszlaam.netlify.app)
+- 👨‍💻 All of my projects are available at [itszlaam](https://itszlaam.netlify.app)
 
 - 💬 Ask me about **React, NextJS, JavaScript/Typescript, Node JS and express JS**
 
-- 📫 How to reach me **mrzalaam@gmail.com**
+- 📫 How to reach me **zlaam.dev@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WjNv4PsACYUfT3WpZHbuVWJUfc0uIBru/view?usp=drive_link)
 
