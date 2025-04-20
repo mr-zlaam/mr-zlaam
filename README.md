@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Zlaam</h1>
-<h3 align="center">A full stack passionate and experienced  Web-App Developer </h3> <img
+<h3 align="center">A full stack passionate and experienced  Software Developer </h3> <img
       width="300"
                                                                    style="border-radius: 50%;"
       align="right"
@@ -14,24 +14,21 @@
 
 - 🔭 I’m currently polishing my skills in web development
 
-- 🌱 I’m currently learning **Go Lang**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👯 I’m looking to collaborate on **any SAAS Project**
 
-- 👨‍💻 All of my projects are available at [itszlaam](https://itszlaam.netlify.app)
+- 👨‍💻 All of my projects are available at [itszlaam](https://dev-zlaam.vercel.app)
 
-- 💬 Ask me about **React, NextJS, JavaScript/Typescript, Node JS and express JS**
+- 💬 Ask me about **React, NextJS, JavaScript/Typescript, Node JS, express JS and Golang**
 
 - 📫 How to reach me **zlaam.dev@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1WjNv4PsACYUfT3WpZHbuVWJUfc0uIBru/view?usp=drive_link)
-
-- ⚡ Fun fact **I think, I am fast learner**
+- ⚡ Fun fact **I think, I am a fast learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mr_zlaam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_zlaam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mr-zlaam-29b944296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mr-zlaam-29b944296" height="30" width="40" /></a>
 <a href="https://fb.com/mrzlaam007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrzlaam007" height="30" width="40" /></a>
 <a href="https://instagram.com/its_zlaam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_zlaam" height="30" width="40" /></a>
 </p>
